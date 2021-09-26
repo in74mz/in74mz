@@ -11,7 +11,9 @@
 
 ![in74mz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=in74mz&theme=highcontrast&count_private=true&show_icons=true&border_radius=8)  
 
-[![in74mz's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=in74mz&theme=maroongold)](https://git.io/streak-stats)
+[![in74mz's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=in74mz&theme=maroongold)](https://git.io/streak-stats)  
+
+[![in74mz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=in74mz&theme=react-dark&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 # Skills
